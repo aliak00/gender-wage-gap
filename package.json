@@ -1,0 +1,24 @@
+{
+  "name": "gender-wage-gap-simulator",
+  "version": "1.0.0",
+  "description": "Creates utopian rainbows of love",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gender",
+    "wage gap",
+    "gap",
+    "equality"
+  ],
+  "author": "Ali Akhtarzada",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliak00/gender-wage-gap.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
