@@ -1,4 +1,5 @@
-==Gender wage gap simulator.==
+Gender wage gap simulator
+===
 
 To run:
 * Make sure you are alone
