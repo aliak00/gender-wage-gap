@@ -5,18 +5,14 @@
     Day, don't know anyone, have been reading and watching gender, race, and culture realted media
     for the past few days, and have no access to any kind of psychological enhancements.
 
-    You write a gender wage gap simulator. Probably a highly inacurate one, but hey, at least I'm
-    doing something right?
+    You write a gender wage gap simulator. Probably a highly inacurate one, but whatevs.
 
     I've commented the code as much as I thought would be good enough.
 
     DISCLAIMER:
 
-    This is either a work of fiction or a work or reality depending on your views and what kind of numbers
-    you put in to the sytem before letting it run. In either case, this is not be used to prove a point.
-    Because it has not been officially commissioned by any government. Furthermore, you may only use and look at
-    this code at your own risk. If you have no sense of humour I suggest you CMD+W (if you're on Windows then
-    shame on you!!).
+    This is either a work of fiction or a work of reality depending on your views and what kind of numbers
+    you put in to the system before letting it run. You may only use and look at this code at your own risk.
 
     ,:d88b:.
    d8P~''~Y8b
